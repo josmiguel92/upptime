@@ -4,9 +4,9 @@
     "url": "https://taxidriverscuba.com",
     "icon": "https://favicons.githubusercontent.com/taxidriverscuba.com",
     "slug": "taxidrivers-cuba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.61%",
     "uptimeMonth": "99.77%",
     "uptimeYear": "99.77%",
@@ -16,6 +16,7 @@
     "timeMonth": 397,
     "timeYear": 397,
     "dailyMinutesDown": {
+      "2022-03-13": 0,
       "2022-03-07": 39,
       "2022-02-27": 19,
       "2022-02-20": 24
