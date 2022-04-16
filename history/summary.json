@@ -13,7 +13,7 @@
     "time": 428,
     "timeDay": 726,
     "timeWeek": 448,
-    "timeMonth": 459,
+    "timeMonth": 462,
     "timeYear": 428,
     "dailyMinutesDown": {
       "2022-04-05": 16,
@@ -31,18 +31,20 @@
     "url": "https://vinales.taxi",
     "icon": "https://favicons.githubusercontent.com/vinales.taxi",
     "slug": "vinales-taxi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 395,
-    "timeDay": 706,
-    "timeWeek": 412,
-    "timeMonth": 433,
-    "timeYear": 395,
-    "dailyMinutesDown": {}
+    "time": 400,
+    "timeDay": 722,
+    "timeWeek": 452,
+    "timeMonth": 443,
+    "timeYear": 400,
+    "dailyMinutesDown": {
+      "2022-04-16": 0
+    }
   },
   {
     "name": "AlTaxi",
