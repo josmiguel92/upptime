@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/taxidriverscuba.com",
     "slug": "taxidrivers-cuba",
     "status": "up",
-    "uptime": "99.83%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.83%",
+    "uptime": "99.84%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.84%",
     "time": 471,
-    "timeDay": 351,
+    "timeDay": 339,
     "timeWeek": 631,
     "timeMonth": 594,
     "timeYear": 471,
     "dailyMinutesDown": {
-      "2022-05-12": 12,
       "2022-04-05": 16,
       "2022-03-31": 25,
       "2022-03-27": 25,
@@ -32,10 +31,10 @@
     "url": "https://vinales.taxi",
     "icon": "https://favicons.githubusercontent.com/vinales.taxi",
     "slug": "vinales-taxi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 411,
@@ -43,16 +42,18 @@
     "timeWeek": 348,
     "timeMonth": 458,
     "timeYear": 411,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-12": 1
+    }
   },
   {
     "name": "AlTaxi",
     "url": "https://altaxi.app",
     "icon": "https://favicons.githubusercontent.com/altaxi.app",
     "slug": "al-taxi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -61,7 +62,9 @@
     "timeWeek": 543,
     "timeMonth": 611,
     "timeYear": 592,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-05-12": 0
+    }
   },
   {
     "name": "SensesofCuba",
@@ -76,7 +79,7 @@
     "uptimeYear": "100.00%",
     "time": 1832,
     "timeDay": 1613,
-    "timeWeek": 1752,
+    "timeWeek": 1720,
     "timeMonth": 1818,
     "timeYear": 1832,
     "dailyMinutesDown": {}
