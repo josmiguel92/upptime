@@ -5,18 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/taxidriverscuba.com",
     "slug": "taxidrivers-cuba",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.54%",
-    "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "99.86%",
+    "uptime": "99.87%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.87%",
     "time": 543,
     "timeDay": 468,
     "timeWeek": 577,
     "timeMonth": 811,
     "timeYear": 543,
     "dailyMinutesDown": {
-      "2022-06-06": 7,
       "2022-06-01": 16,
       "2022-04-05": 16,
       "2022-03-31": 25,
@@ -75,9 +74,9 @@
     "url": "https://sensesofcuba.com",
     "icon": "https://favicons.githubusercontent.com/sensesofcuba.com",
     "slug": "sensesof-cuba",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -86,7 +85,9 @@
     "timeWeek": 1777,
     "timeMonth": 1793,
     "timeYear": 1828,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-06": 0
+    }
   },
   {
     "name": "Infonet-SensesofCuba",
