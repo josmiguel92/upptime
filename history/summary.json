@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.14%",
     "time": 797,
-    "timeDay": 374,
-    "timeWeek": 745,
+    "timeDay": 439,
+    "timeWeek": 652,
     "timeMonth": 955,
-    "timeYear": 839,
+    "timeYear": 838,
     "dailyMinutesDown": {
       "2023-10-21": 136,
       "2023-08-27": 945,
@@ -39,10 +39,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 521,
-    "timeDay": 733,
-    "timeWeek": 480,
-    "timeMonth": 491,
-    "timeYear": 514,
+    "timeDay": 271,
+    "timeWeek": 495,
+    "timeMonth": 484,
+    "timeYear": 513,
     "dailyMinutesDown": {
       "2023-10-20": 23
     }
@@ -53,16 +53,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/altaxi.app.ico",
     "slug": "al-taxi",
     "status": "up",
-    "uptime": "69.61%",
+    "uptime": "69.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "77.56%",
+    "uptimeYear": "77.83%",
     "time": 333,
-    "timeDay": 127,
-    "timeWeek": 291,
-    "timeMonth": 275,
-    "timeYear": 344,
+    "timeDay": 136,
+    "timeWeek": 246,
+    "timeMonth": 274,
+    "timeYear": 343,
     "dailyMinutesDown": {
       "2023-10-21": 52,
       "2023-10-20": 23,
@@ -145,8 +145,7 @@
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
-      "2022-12-14": 1440,
-      "2022-12-13": 1440
+      "2022-12-14": 1440
     }
   },
   {
@@ -161,9 +160,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1864,
-    "timeDay": 2013,
-    "timeWeek": 2086,
-    "timeMonth": 2056,
+    "timeDay": 1808,
+    "timeWeek": 2028,
+    "timeMonth": 2051,
     "timeYear": 1834,
     "dailyMinutesDown": {
       "2023-01-25": 93
@@ -181,10 +180,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 614,
-    "timeDay": 571,
-    "timeWeek": 613,
+    "timeDay": 499,
+    "timeWeek": 586,
     "timeMonth": 594,
-    "timeYear": 621,
+    "timeYear": 620,
     "dailyMinutesDown": {
       "2023-01-25": 94
     }
@@ -195,18 +194,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/festivaldepoesiadelahabana.com.ico",
     "slug": "festival-de-poesia",
     "status": "down",
-    "uptime": "31.20%",
+    "uptime": "31.16%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 2100,
+    "time": 2110,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-12": 26,
+      "2023-12-13": 26,
+      "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
@@ -569,8 +569,7 @@
       "2022-12-17": 1440,
       "2022-12-16": 1440,
       "2022-12-15": 1440,
-      "2022-12-14": 1440,
-      "2022-12-13": 1440
+      "2022-12-14": 1440
     }
   },
   {
@@ -579,16 +578,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kuba-reisen.de.ico",
     "slug": "kuba-reisen",
     "status": "up",
-    "uptime": "67.18%",
+    "uptime": "67.24%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.51%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "96.78%",
     "uptimeYear": "53.33%",
-    "time": 1371,
-    "timeDay": 1909,
-    "timeWeek": 2477,
-    "timeMonth": 1587,
-    "timeYear": 1476,
+    "time": 1373,
+    "timeDay": 1647,
+    "timeWeek": 2259,
+    "timeMonth": 1612,
+    "timeYear": 1478,
     "dailyMinutesDown": {
       "2023-12-05": 479,
       "2023-12-04": 931,
