@@ -13,7 +13,7 @@
     "time": 800,
     "timeDay": 1295,
     "timeWeek": 655,
-    "timeMonth": 684,
+    "timeMonth": 698,
     "timeYear": 849,
     "dailyMinutesDown": {
       "2023-10-21": 136,
@@ -34,17 +34,18 @@
     "slug": "vinales-taxi",
     "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.94%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 518,
     "timeDay": 504,
     "timeWeek": 441,
-    "timeMonth": 478,
+    "timeMonth": 483,
     "timeYear": 514,
     "dailyMinutesDown": {
-      "2023-12-30": 0,
+      "2023-12-31": 28,
+      "2023-12-30": 2,
       "2023-10-20": 23
     }
   },
@@ -62,7 +63,7 @@
     "time": 333,
     "timeDay": 644,
     "timeWeek": 297,
-    "timeMonth": 296,
+    "timeMonth": 300,
     "timeYear": 348,
     "dailyMinutesDown": {
       "2023-10-21": 52,
@@ -128,8 +129,7 @@
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
-      "2023-01-01": 1440,
-      "2022-12-31": 1440
+      "2023-01-01": 1440
     }
   },
   {
@@ -146,7 +146,7 @@
     "time": 1867,
     "timeDay": 2253,
     "timeWeek": 2070,
-    "timeMonth": 2035,
+    "timeMonth": 2043,
     "timeYear": 1840,
     "dailyMinutesDown": {
       "2023-01-25": 93
@@ -166,7 +166,7 @@
     "time": 614,
     "timeDay": 694,
     "timeWeek": 584,
-    "timeMonth": 593,
+    "timeMonth": 596,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2023-01-25": 94
@@ -178,10 +178,10 @@
     "icon": "https://icons.duckduckgo.com/ip3/festivaldepoesiadelahabana.com.ico",
     "slug": "festival-de-poesia",
     "status": "down",
-    "uptime": "30.34%",
+    "uptime": "30.33%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "1.38%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 2196,
     "timeDay": 0,
@@ -189,7 +189,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-12-30": 1439,
+      "2023-12-31": 28,
+      "2023-12-30": 1440,
       "2023-12-29": 1440,
       "2023-12-28": 1440,
       "2023-12-27": 1440,
@@ -552,8 +553,7 @@
       "2023-01-04": 1440,
       "2023-01-03": 1440,
       "2023-01-02": 1440,
-      "2023-01-01": 1440,
-      "2022-12-31": 1440
+      "2023-01-01": 1440
     }
   },
   {
@@ -570,7 +570,7 @@
     "time": 1425,
     "timeDay": 2524,
     "timeWeek": 2075,
-    "timeMonth": 2069,
+    "timeMonth": 2059,
     "timeYear": 1533,
     "dailyMinutesDown": {
       "2023-12-05": 479,
