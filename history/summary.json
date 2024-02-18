@@ -12,9 +12,9 @@
     "uptimeYear": "98.77%",
     "time": 803,
     "timeDay": 1032,
-    "timeWeek": 698,
-    "timeMonth": 621,
-    "timeYear": 829,
+    "timeWeek": 661,
+    "timeMonth": 624,
+    "timeYear": 830,
     "dailyMinutesDown": {
       "2024-02-17": 1085,
       "2024-02-16": 328,
@@ -43,9 +43,9 @@
     "uptimeYear": "99.97%",
     "time": 514,
     "timeDay": 507,
-    "timeWeek": 490,
-    "timeMonth": 456,
-    "timeYear": 512,
+    "timeWeek": 474,
+    "timeMonth": 454,
+    "timeYear": 511,
     "dailyMinutesDown": {
       "2023-12-31": 123,
       "2023-12-30": 2,
@@ -62,11 +62,11 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.17%",
+    "uptimeYear": "96.19%",
     "time": 334,
     "timeDay": 441,
-    "timeWeek": 309,
-    "timeMonth": 291,
+    "timeWeek": 286,
+    "timeMonth": 277,
     "timeYear": 349,
     "dailyMinutesDown": {
       "2023-10-21": 52,
@@ -83,8 +83,7 @@
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
-      "2023-02-19": 1440,
-      "2023-02-18": 1440
+      "2023-02-19": 1440
     }
   },
   {
@@ -100,9 +99,9 @@
     "uptimeYear": "100.00%",
     "time": 1866,
     "timeDay": 2243,
-    "timeWeek": 2044,
-    "timeMonth": 1999,
-    "timeYear": 1860,
+    "timeWeek": 2011,
+    "timeMonth": 2003,
+    "timeYear": 1861,
     "dailyMinutesDown": {}
   },
   {
@@ -118,8 +117,8 @@
     "uptimeYear": "100.00%",
     "time": 611,
     "timeDay": 750,
-    "timeWeek": 605,
-    "timeMonth": 564,
+    "timeWeek": 582,
+    "timeMonth": 566,
     "timeYear": 593,
     "dailyMinutesDown": {}
   },
@@ -129,15 +128,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/festivaldepoesiadelahabana.com.ico",
     "slug": "festival-de-poesia",
     "status": "up",
-    "uptime": "34.60%",
+    "uptime": "34.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "12.61%",
+    "uptimeYear": "12.63%",
     "time": 2023,
     "timeDay": 3036,
-    "timeWeek": 1882,
-    "timeMonth": 1885,
+    "timeWeek": 1826,
+    "timeMonth": 1882,
     "timeYear": 2023,
     "dailyMinutesDown": {
       "2024-01-02": 1330,
@@ -457,8 +456,7 @@
       "2023-02-22": 1440,
       "2023-02-21": 1440,
       "2023-02-20": 1440,
-      "2023-02-19": 1440,
-      "2023-02-18": 1440
+      "2023-02-19": 1440
     }
   },
   {
@@ -474,9 +472,9 @@
     "uptimeYear": "53.34%",
     "time": 1575,
     "timeDay": 2689,
-    "timeWeek": 2287,
-    "timeMonth": 1946,
-    "timeYear": 1511,
+    "timeWeek": 2230,
+    "timeMonth": 1948,
+    "timeYear": 1512,
     "dailyMinutesDown": {
       "2023-12-05": 479,
       "2023-12-04": 931,
