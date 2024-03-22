@@ -34,9 +34,9 @@
     "slug": "vinales-taxi",
     "status": "up",
     "uptime": "99.96%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 510,
     "timeDay": 514,
@@ -44,7 +44,6 @@
     "timeMonth": 517,
     "timeYear": 509,
     "dailyMinutesDown": {
-      "2024-03-21": 7,
       "2023-12-31": 123,
       "2023-12-30": 2,
       "2023-10-20": 23
@@ -57,17 +56,16 @@
     "slug": "al-taxi",
     "status": "up",
     "uptime": "73.63%",
-    "uptimeDay": "99.51%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 335,
     "timeDay": 201,
     "timeWeek": 342,
     "timeMonth": 304,
     "timeYear": 347,
     "dailyMinutesDown": {
-      "2024-03-21": 7,
       "2023-10-21": 52,
       "2023-10-20": 23
     }
@@ -118,7 +116,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "21.39%",
+    "uptimeYear": "21.40%",
     "time": 2011,
     "timeDay": 1821,
     "timeWeek": 2206,
@@ -409,8 +407,7 @@
       "2023-03-27": 1440,
       "2023-03-26": 1440,
       "2023-03-25": 1440,
-      "2023-03-24": 1440,
-      "2023-03-23": 1440
+      "2023-03-24": 1440
     }
   },
   {
@@ -419,7 +416,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kuba-reisen.de.ico",
     "slug": "kuba-reisen",
     "status": "up",
-    "uptime": "72.52%",
+    "uptime": "72.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
