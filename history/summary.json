@@ -94,19 +94,19 @@
     "url": "https://infonet.sensesofcuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/infonet.sensesofcuba.com.ico",
     "slug": "infonet-sensesof-cuba",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.54%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 622,
-    "timeDay": 3649,
-    "timeWeek": 1322,
-    "timeMonth": 782,
-    "timeYear": 612,
+    "time": 635,
+    "timeDay": 4715,
+    "timeWeek": 1936,
+    "timeMonth": 966,
+    "timeYear": 629,
     "dailyMinutesDown": {
-      "2024-04-15": 0
+      "2024-04-15": 7
     }
   },
   {
