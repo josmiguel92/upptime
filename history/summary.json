@@ -78,19 +78,19 @@
     "url": "https://sensesofcuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/sensesofcuba.com.ico",
     "slug": "sensesof-cuba",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.61%",
+    "uptimeWeek": "99.80%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 1912,
-    "timeDay": 1970,
-    "timeWeek": 2048,
-    "timeMonth": 2033,
+    "timeDay": 1931,
+    "timeWeek": 2028,
+    "timeMonth": 2029,
     "timeYear": 1996,
     "dailyMinutesDown": {
-      "2024-05-20": 1
+      "2024-05-20": 20
     }
   },
   {
@@ -98,19 +98,19 @@
     "url": "https://infonet.sensesofcuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/infonet.sensesofcuba.com.ico",
     "slug": "infonet-sensesof-cuba",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 635,
-    "timeDay": 495,
-    "timeWeek": 573,
-    "timeMonth": 569,
+    "timeDay": 636,
+    "timeWeek": 598,
+    "timeMonth": 576,
     "timeYear": 631,
     "dailyMinutesDown": {
-      "2024-05-20": 0
+      "2024-05-20": 20
     }
   },
   {
