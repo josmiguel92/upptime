@@ -1,7 +1,7 @@
 url: https://www.kuba-reisen.de/
-status: up
-code: 200
-responseTime: 2705
-lastUpdated: 2024-09-10T23:09:37.997Z
+status: down
+code: 500
+responseTime: 6708
+lastUpdated: 2024-09-11T09:11:17.638Z
 startTime: 2022-07-10T20:46:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
