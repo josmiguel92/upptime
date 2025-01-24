@@ -142,19 +142,19 @@
     "url": "https://festivaldepoesiadelahabana.com/",
     "icon": "https://icons.duckduckgo.com/ip3/festivaldepoesiadelahabana.com.ico",
     "slug": "festival-de-poesia",
-    "status": "down",
+    "status": "up",
     "uptime": "55.42%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.96%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 2004,
-    "timeDay": 1333,
-    "timeWeek": 2246,
-    "timeMonth": 2045,
+    "timeDay": 1746,
+    "timeWeek": 2236,
+    "timeMonth": 2048,
     "timeYear": 1994,
     "dailyMinutesDown": {
-      "2025-01-24": 0
+      "2025-01-24": 15
     }
   },
   {
