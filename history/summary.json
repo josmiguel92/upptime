@@ -64,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/altaxi.app.ico",
     "slug": "al-taxi",
     "status": "up",
-    "uptime": "81.69%",
+    "uptime": "81.70%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -144,9 +144,9 @@
     "url": "https://festivaldepoesiadelahabana.com/",
     "icon": "https://icons.duckduckgo.com/ip3/festivaldepoesiadelahabana.com.ico",
     "slug": "festival-de-poesia",
-    "status": "up",
-    "uptime": "56.65%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "56.66%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.99%",
@@ -156,6 +156,7 @@
     "timeMonth": 2323,
     "timeYear": 2039,
     "dailyMinutesDown": {
+      "2025-02-24": 0,
       "2025-02-08": 15,
       "2025-01-26": 20
     }
@@ -166,7 +167,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.kuba-reisen.de.ico",
     "slug": "kuba-reisen",
     "status": "up",
-    "uptime": "82.21%",
+    "uptime": "82.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
     "uptimeMonth": "99.94%",
