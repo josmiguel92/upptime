@@ -15,10 +15,14 @@ sites:
     url: https://sensesofcuba.com
   - name: Infonet-SensesofCuba
     url: https://infonet.sensesofcuba.com
-  - name: Festival de Poesia
-    url: https://festivaldepoesiadelahabana.com/
-  - name: Kuba-Reisen
-    url: https://www.kuba-reisen.de/
+#  - name: Festival de Poesia
+#    url: https://festivaldepoesiadelahabana.com/
+#  - name: Kuba-Reisen
+#    url: https://www.kuba-reisen.de/
+  - name: Serviless
+    url: https://serviless.com/
+  - name: HilosCaribe
+    url: http://www.hiloscaribe.com/
     
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
