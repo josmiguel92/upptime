@@ -146,19 +146,19 @@
     "url": "https://serviless.com/",
     "icon": "https://icons.duckduckgo.com/ip3/serviless.com.ico",
     "slug": "serviless",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 590,
-    "timeDay": 264,
-    "timeWeek": 519,
-    "timeMonth": 554,
-    "timeYear": 590,
+    "status": "up",
+    "uptime": "99.95%",
+    "uptimeDay": "97.77%",
+    "uptimeWeek": "99.68%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.95%",
+    "time": 589,
+    "timeDay": 352,
+    "timeWeek": 520,
+    "timeMonth": 553,
+    "timeYear": 589,
     "dailyMinutesDown": {
-      "2025-05-04": 0
+      "2025-05-04": 32
     }
   },
   {
