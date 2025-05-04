@@ -64,7 +64,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/altaxi.app.ico",
     "slug": "al-taxi",
     "status": "up",
-    "uptime": "82.77%",
+    "uptime": "82.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -146,18 +146,20 @@
     "url": "https://serviless.com/",
     "icon": "https://icons.duckduckgo.com/ip3/serviless.com.ico",
     "slug": "serviless",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 601,
-    "timeDay": 406,
-    "timeWeek": 576,
-    "timeMonth": 569,
-    "timeYear": 601,
-    "dailyMinutesDown": {}
+    "time": 590,
+    "timeDay": 264,
+    "timeWeek": 519,
+    "timeMonth": 554,
+    "timeYear": 590,
+    "dailyMinutesDown": {
+      "2025-05-04": 0
+    }
   },
   {
     "name": "HilosCaribe",
