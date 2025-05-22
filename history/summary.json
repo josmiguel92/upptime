@@ -163,17 +163,19 @@
     "url": "http://www.hiloscaribe.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.hiloscaribe.com.ico",
     "slug": "hilos-caribe",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 635,
-    "timeDay": 1190,
-    "timeWeek": 1013,
-    "timeMonth": 869,
-    "timeYear": 635,
-    "dailyMinutesDown": {}
+    "time": 634,
+    "timeDay": 895,
+    "timeWeek": 962,
+    "timeMonth": 860,
+    "timeYear": 634,
+    "dailyMinutesDown": {
+      "2025-05-22": 0
+    }
   }
 ]
