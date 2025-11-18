@@ -1,7 +1,7 @@
 url: https://vinales.taxi
-status: down
-code: 500
-responseTime: 427
-lastUpdated: 2025-11-18T16:47:21.534Z
+status: up
+code: 200
+responseTime: 333
+lastUpdated: 2025-11-18T17:21:36.233Z
 startTime: 2022-02-16T17:25:02.000Z
 generator: Upptime <https://github.com/upptime/upptime>
