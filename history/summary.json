@@ -7,14 +7,14 @@
     "status": "up",
     "uptime": "99.34%",
     "uptimeDay": "98.83%",
-    "uptimeWeek": "97.60%",
-    "uptimeMonth": "98.47%",
+    "uptimeWeek": "97.83%",
+    "uptimeMonth": "98.51%",
     "uptimeYear": "99.50%",
     "time": 1012,
-    "timeDay": 755,
-    "timeWeek": 741,
-    "timeMonth": 938,
-    "timeYear": 961,
+    "timeDay": 837,
+    "timeWeek": 733,
+    "timeMonth": 954,
+    "timeYear": 962,
     "dailyMinutesDown": {
       "2026-01-12": 17,
       "2026-01-10": 62,
@@ -85,17 +85,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 576,
-    "timeDay": 534,
-    "timeWeek": 561,
-    "timeMonth": 589,
+    "time": 575,
+    "timeDay": 418,
+    "timeWeek": 539,
+    "timeMonth": 591,
     "timeYear": 597,
     "dailyMinutesDown": {
       "2025-11-18": 184,
       "2025-01-28": 41,
       "2025-01-27": 16,
-      "2025-01-26": 18,
-      "2025-01-13": 52
+      "2025-01-26": 18
     }
   },
   {
@@ -110,13 +109,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 339,
-    "timeDay": 189,
-    "timeWeek": 393,
-    "timeMonth": 312,
-    "timeYear": 340,
+    "timeDay": 510,
+    "timeWeek": 409,
+    "timeMonth": 319,
+    "timeYear": 341,
     "dailyMinutesDown": {
-      "2025-11-18": 144,
-      "2025-01-13": 51
+      "2025-11-18": 144
     }
   },
   {
@@ -130,11 +128,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1948,
-    "timeDay": 1841,
-    "timeWeek": 2071,
-    "timeMonth": 2130,
-    "timeYear": 1954,
+    "time": 1949,
+    "timeDay": 2211,
+    "timeWeek": 2089,
+    "timeMonth": 2131,
+    "timeYear": 1955,
     "dailyMinutesDown": {
       "2025-03-07": 35
     }
@@ -150,10 +148,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 619,
-    "timeDay": 551,
-    "timeWeek": 599,
-    "timeMonth": 612,
+    "time": 620,
+    "timeDay": 671,
+    "timeWeek": 594,
+    "timeMonth": 615,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2025-03-07": 52
@@ -171,8 +169,8 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "97.88%",
     "time": 658,
-    "timeDay": 682,
-    "timeWeek": 751,
+    "timeDay": 758,
+    "timeWeek": 773,
     "timeMonth": 669,
     "timeYear": 658,
     "dailyMinutesDown": {
@@ -198,15 +196,15 @@
     "slug": "hilos-caribe",
     "status": "up",
     "uptime": "99.93%",
-    "uptimeDay": "98.12%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.73%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
-    "time": 1275,
-    "timeDay": 1854,
-    "timeWeek": 1760,
-    "timeMonth": 1517,
-    "timeYear": 1275,
+    "time": 1277,
+    "timeDay": 1913,
+    "timeWeek": 1796,
+    "timeMonth": 1532,
+    "timeYear": 1277,
     "dailyMinutesDown": {
       "2026-01-11": 27,
       "2025-11-18": 176,
