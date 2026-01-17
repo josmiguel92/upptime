@@ -12,7 +12,7 @@
     "uptimeYear": "99.48%",
     "time": 1008,
     "timeDay": 769,
-    "timeWeek": 804,
+    "timeWeek": 825,
     "timeMonth": 947,
     "timeYear": 955,
     "dailyMinutesDown": {
@@ -93,7 +93,7 @@
     "timeDay": 555,
     "timeWeek": 506,
     "timeMonth": 566,
-    "timeYear": 597,
+    "timeYear": 596,
     "dailyMinutesDown": {
       "2026-01-17": 15,
       "2025-11-18": 184,
@@ -157,7 +157,7 @@
     "timeDay": 666,
     "timeWeek": 612,
     "timeMonth": 608,
-    "timeYear": 612,
+    "timeYear": 611,
     "dailyMinutesDown": {
       "2025-03-07": 52
     }
@@ -167,9 +167,9 @@
     "url": "https://serviless.com/",
     "icon": "https://icons.duckduckgo.com/ip3/serviless.com.ico",
     "slug": "serviless",
-    "status": "up",
+    "status": "down",
     "uptime": "97.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "97.92%",
@@ -179,6 +179,7 @@
     "timeMonth": 679,
     "timeYear": 660,
     "dailyMinutesDown": {
+      "2026-01-17": 0,
       "2026-01-07": 21,
       "2025-11-25": 43,
       "2025-11-18": 148,
