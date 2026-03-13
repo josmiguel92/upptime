@@ -6,17 +6,17 @@
     "slug": "taxidrivers-cuba",
     "status": "up",
     "uptime": "99.85%",
-    "uptimeDay": "95.98%",
-    "uptimeWeek": "96.01%",
-    "uptimeMonth": "96.75%",
-    "uptimeYear": "99.39%",
+    "uptimeDay": "96.92%",
+    "uptimeWeek": "96.04%",
+    "uptimeMonth": "96.76%",
+    "uptimeYear": "99.38%",
     "time": 990,
-    "timeDay": 592,
-    "timeWeek": 1840,
+    "timeDay": 540,
+    "timeWeek": 1867,
     "timeMonth": 1107,
     "timeYear": 977,
     "dailyMinutesDown": {
-      "2026-03-12": 47,
+      "2026-03-12": 44,
       "2026-03-11": 94,
       "2026-03-10": 110,
       "2026-03-09": 39,
@@ -81,7 +81,8 @@
       "2025-12-07": 51,
       "2025-12-05": 33,
       "2025-12-04": 79,
-      "2025-12-03": 64
+      "2025-12-03": 64,
+      "2025-12-01": 18
     }
   },
   {
@@ -97,7 +98,7 @@
     "uptimeYear": "99.96%",
     "time": 580,
     "timeDay": 587,
-    "timeWeek": 577,
+    "timeWeek": 592,
     "timeMonth": 487,
     "timeYear": 587,
     "dailyMinutesDown": {
@@ -111,14 +112,14 @@
     "icon": "https://icons.duckduckgo.com/ip3/altaxi.app.ico",
     "slug": "al-taxi",
     "status": "up",
-    "uptime": "86.39%",
+    "uptime": "86.40%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 336,
     "timeDay": 367,
-    "timeWeek": 311,
+    "timeWeek": 310,
     "timeMonth": 289,
     "timeYear": 329,
     "dailyMinutesDown": {
@@ -138,7 +139,7 @@
     "uptimeYear": "99.99%",
     "time": 1977,
     "timeDay": 2070,
-    "timeWeek": 1994,
+    "timeWeek": 2012,
     "timeMonth": 1963,
     "timeYear": 1993,
     "dailyMinutesDown": {
@@ -178,7 +179,7 @@
     "uptimeYear": "98.23%",
     "time": 659,
     "timeDay": 1021,
-    "timeWeek": 733,
+    "timeWeek": 759,
     "timeMonth": 691,
     "timeYear": 659,
     "dailyMinutesDown": {
@@ -211,7 +212,7 @@
     "uptimeYear": "99.93%",
     "time": 1321,
     "timeDay": 1532,
-    "timeWeek": 1847,
+    "timeWeek": 1765,
     "timeMonth": 1551,
     "timeYear": 1321,
     "dailyMinutesDown": {
