@@ -4,18 +4,19 @@
     "url": "https://taxidriverscuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/taxidriverscuba.com.ico",
     "slug": "taxidrivers-cuba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.84%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "97.61%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.35%",
     "time": 975,
-    "timeDay": 1468,
-    "timeWeek": 887,
-    "timeMonth": 1125,
+    "timeDay": 946,
+    "timeWeek": 829,
+    "timeMonth": 1117,
     "timeYear": 965,
     "dailyMinutesDown": {
+      "2026-04-04": 0,
       "2026-03-24": 48,
       "2026-03-23": 23,
       "2026-03-22": 50,
@@ -81,7 +82,7 @@
       "2025-12-25": 17,
       "2025-12-23": 18,
       "2025-12-21": 28,
-      "2025-12-20": 79
+      "2025-12-20": 55
     }
   },
   {
@@ -111,7 +112,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/altaxi.app.ico",
     "slug": "al-taxi",
     "status": "up",
-    "uptime": "86.59%",
+    "uptime": "86.60%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
