@@ -4,16 +4,16 @@
     "url": "https://taxidriverscuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/taxidriverscuba.com.ico",
     "slug": "taxidrivers-cuba",
-    "status": "down",
+    "status": "up",
     "uptime": "99.77%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "93.87%",
+    "uptimeWeek": "94.28%",
     "uptimeMonth": "94.21%",
     "uptimeYear": "99.03%",
     "time": 963,
-    "timeDay": 4637,
-    "timeWeek": 1205,
-    "timeMonth": 848,
+    "timeDay": 3399,
+    "timeWeek": 1188,
+    "timeMonth": 849,
     "timeYear": 957,
     "dailyMinutesDown": {
       "2026-04-26": 60,
@@ -106,17 +106,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/altaxi.app.ico",
     "slug": "al-taxi",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "86.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.97%",
     "time": 332,
     "timeDay": 347,
     "timeWeek": 335,
     "timeMonth": 289,
     "timeYear": 323,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 144
+    }
   },
   {
     "name": "SensesofCuba",
@@ -144,17 +146,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/infonet.sensesofcuba.com.ico",
     "slug": "infonet-sensesof-cuba",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.99%",
     "time": 614,
     "timeDay": 648,
     "timeWeek": 656,
     "timeMonth": 603,
     "timeYear": 612,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-03-03": 33
+    }
   },
   {
     "name": "Serviless",
@@ -162,32 +166,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/serviless.com.ico",
     "slug": "serviless",
     "status": "up",
-    "uptime": "98.43%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.28%",
+    "uptimeYear": "100.00%",
     "time": 646,
     "timeDay": 754,
     "timeWeek": 560,
     "timeMonth": 542,
     "timeYear": 650,
-    "dailyMinutesDown": {
-      "2026-03-11": 38,
-      "2026-01-07": 21,
-      "2025-11-25": 43,
-      "2025-11-18": 148,
-      "2025-11-01": 79,
-      "2025-10-31": 2,
-      "2025-06-08": 986,
-      "2025-06-07": 1440,
-      "2025-06-06": 1440,
-      "2025-06-05": 1440,
-      "2025-06-04": 1440,
-      "2025-06-03": 1440,
-      "2025-06-02": 515,
-      "2025-05-04": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "HilosCaribe",
