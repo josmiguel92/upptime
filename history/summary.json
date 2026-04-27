@@ -4,17 +4,17 @@
     "url": "https://taxidriverscuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/taxidriverscuba.com.ico",
     "slug": "taxidrivers-cuba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "95.84%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "93.87%",
     "uptimeMonth": "94.21%",
     "uptimeYear": "99.03%",
-    "time": 959,
-    "timeDay": 3466,
-    "timeWeek": 1247,
-    "timeMonth": 855,
-    "timeYear": 958,
+    "time": 963,
+    "timeDay": 4637,
+    "timeWeek": 1205,
+    "timeMonth": 848,
+    "timeYear": 957,
     "dailyMinutesDown": {
       "2026-04-26": 60,
       "2026-04-25": 39,
@@ -106,19 +106,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/altaxi.app.ico",
     "slug": "al-taxi",
     "status": "up",
-    "uptime": "86.80%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "100.00%",
     "time": 332,
     "timeDay": 347,
     "timeWeek": 335,
     "timeMonth": 289,
     "timeYear": 323,
-    "dailyMinutesDown": {
-      "2025-11-18": 144
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "SensesofCuba",
@@ -146,19 +144,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/infonet.sensesofcuba.com.ico",
     "slug": "infonet-sensesof-cuba",
     "status": "up",
-    "uptime": "99.54%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
+    "uptimeYear": "100.00%",
     "time": 614,
     "timeDay": 648,
     "timeWeek": 656,
     "timeMonth": 603,
     "timeYear": 612,
-    "dailyMinutesDown": {
-      "2026-03-03": 33
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Serviless",
