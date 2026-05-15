@@ -4,18 +4,19 @@
     "url": "https://taxidriverscuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/taxidriverscuba.com.ico",
     "slug": "taxidrivers-cuba",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "98.44%",
-    "uptimeMonth": "93.13%",
-    "uptimeYear": "98.70%",
-    "time": 970,
-    "timeDay": 1152,
-    "timeWeek": 1023,
-    "timeMonth": 1038,
-    "timeYear": 964,
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.01%",
+    "uptimeMonth": "93.71%",
+    "uptimeYear": "98.72%",
+    "time": 969,
+    "timeDay": 702,
+    "timeWeek": 983,
+    "timeMonth": 1067,
+    "timeYear": 963,
     "dailyMinutesDown": {
+      "2026-05-15": 0,
       "2026-05-09": 100,
       "2026-05-08": 57,
       "2026-05-06": 147,
@@ -79,8 +80,7 @@
       "2026-02-08": 35,
       "2026-02-07": 22,
       "2026-02-06": 74,
-      "2026-02-05": 17,
-      "2026-02-04": 92
+      "2026-02-05": 17
     }
   },
   {
@@ -98,7 +98,7 @@
     "timeDay": 506,
     "timeWeek": 424,
     "timeMonth": 472,
-    "timeYear": 563,
+    "timeYear": 564,
     "dailyMinutesDown": {
       "2026-01-17": 15,
       "2025-11-18": 184
@@ -110,7 +110,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/altaxi.app.ico",
     "slug": "al-taxi",
     "status": "up",
-    "uptime": "86.95%",
+    "uptime": "86.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -159,7 +159,7 @@
     "timeDay": 647,
     "timeWeek": 607,
     "timeMonth": 619,
-    "timeYear": 611,
+    "timeYear": 612,
     "dailyMinutesDown": {
       "2026-03-03": 33
     }
@@ -179,7 +179,7 @@
     "timeDay": 743,
     "timeWeek": 608,
     "timeMonth": 568,
-    "timeYear": 655,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2026-03-11": 38,
       "2026-01-07": 21,
@@ -211,7 +211,7 @@
     "timeDay": 1391,
     "timeWeek": 1269,
     "timeMonth": 1438,
-    "timeYear": 1446,
+    "timeYear": 1448,
     "dailyMinutesDown": {
       "2026-02-19": 38,
       "2026-01-17": 20,
