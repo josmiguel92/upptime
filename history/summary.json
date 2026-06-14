@@ -4,15 +4,15 @@
     "url": "https://taxidriverscuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/taxidriverscuba.com.ico",
     "slug": "taxidrivers-cuba",
-    "status": "down",
+    "status": "up",
     "uptime": "99.55%",
-    "uptimeDay": "79.18%",
-    "uptimeWeek": "83.68%",
-    "uptimeMonth": "89.70%",
-    "uptimeYear": "98.07%",
+    "uptimeDay": "74.05%",
+    "uptimeWeek": "83.55%",
+    "uptimeMonth": "89.54%",
+    "uptimeYear": "98.05%",
     "time": 948,
-    "timeDay": 479,
-    "timeWeek": 670,
+    "timeDay": 515,
+    "timeWeek": 676,
     "timeMonth": 721,
     "timeYear": 929,
     "dailyMinutesDown": {
@@ -79,7 +79,7 @@
       "2026-06-09": 42,
       "2026-06-11": 86,
       "2026-06-12": 470,
-      "2026-06-14": 300
+      "2026-06-14": 374
     }
   },
   {
