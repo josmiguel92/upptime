@@ -216,18 +216,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/sns-origami.eu.ico",
     "slug": "origami",
     "status": "down",
-    "uptime": "35.48%",
-    "uptimeDay": "35.48%",
-    "uptimeWeek": "35.48%",
-    "uptimeMonth": "35.48%",
-    "uptimeYear": "35.48%",
+    "uptime": "23.00%",
+    "uptimeDay": "23.00%",
+    "uptimeWeek": "23.00%",
+    "uptimeMonth": "23.00%",
+    "uptimeYear": "23.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-06-26": 0
+      "2026-06-26": 1
     }
   }
 ]
