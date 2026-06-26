@@ -4,16 +4,16 @@
     "url": "https://taxidriverscuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/taxidriverscuba.com.ico",
     "slug": "taxidrivers-cuba",
-    "status": "down",
+    "status": "up",
     "uptime": "99.43%",
-    "uptimeDay": "94.67%",
-    "uptimeWeek": "81.97%",
-    "uptimeMonth": "82.39%",
-    "uptimeYear": "97.51%",
+    "uptimeDay": "88.74%",
+    "uptimeWeek": "81.12%",
+    "uptimeMonth": "82.19%",
+    "uptimeYear": "97.50%",
     "time": 934,
-    "timeDay": 478,
-    "timeWeek": 735,
-    "timeMonth": 684,
+    "timeDay": 513,
+    "timeWeek": 702,
+    "timeMonth": 683,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2026-03-15": 30,
@@ -79,7 +79,7 @@
       "2026-06-23": 503,
       "2026-06-24": 417,
       "2026-06-25": 77,
-      "2026-06-26": 0
+      "2026-06-26": 85
     }
   },
   {
@@ -95,7 +95,7 @@
     "uptimeYear": "99.96%",
     "time": 558,
     "timeDay": 309,
-    "timeWeek": 488,
+    "timeWeek": 496,
     "timeMonth": 428,
     "timeYear": 548,
     "dailyMinutesDown": {
@@ -116,7 +116,7 @@
     "uptimeYear": "99.97%",
     "time": 316,
     "timeDay": 143,
-    "timeWeek": 268,
+    "timeWeek": 254,
     "timeMonth": 243,
     "timeYear": 310,
     "dailyMinutesDown": {
@@ -136,7 +136,7 @@
     "uptimeYear": "99.99%",
     "time": 2035,
     "timeDay": 1725,
-    "timeWeek": 1955,
+    "timeWeek": 1941,
     "timeMonth": 2857,
     "timeYear": 2074,
     "dailyMinutesDown": {
@@ -156,7 +156,7 @@
     "uptimeYear": "99.99%",
     "time": 622,
     "timeDay": 582,
-    "timeWeek": 635,
+    "timeWeek": 617,
     "timeMonth": 762,
     "timeYear": 627,
     "dailyMinutesDown": {
@@ -176,7 +176,7 @@
     "uptimeYear": "99.94%",
     "time": 632,
     "timeDay": 628,
-    "timeWeek": 546,
+    "timeWeek": 558,
     "timeMonth": 510,
     "timeYear": 640,
     "dailyMinutesDown": {
@@ -201,7 +201,7 @@
     "uptimeYear": "99.95%",
     "time": 1339,
     "timeDay": 1165,
-    "timeWeek": 1393,
+    "timeWeek": 1371,
     "timeMonth": 1294,
     "timeYear": 1472,
     "dailyMinutesDown": {
