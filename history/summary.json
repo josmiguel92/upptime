@@ -6,17 +6,16 @@
     "slug": "taxidrivers-cuba",
     "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "55.70%",
-    "uptimeWeek": "78.79%",
-    "uptimeMonth": "78.07%",
-    "uptimeYear": "97.06%",
-    "time": 927,
-    "timeDay": 545,
-    "timeWeek": 659,
-    "timeMonth": 664,
+    "uptimeDay": "63.90%",
+    "uptimeWeek": "77.60%",
+    "uptimeMonth": "78.44%",
+    "uptimeYear": "97.05%",
+    "time": 928,
+    "timeDay": 647,
+    "timeWeek": 674,
+    "timeMonth": 673,
     "timeYear": 869,
     "dailyMinutesDown": {
-      "2026-04-12": 32,
       "2026-04-13": 365,
       "2026-04-14": 142,
       "2026-04-15": 255,
@@ -74,7 +73,7 @@
       "2026-07-02": 260,
       "2026-07-03": 249,
       "2026-07-04": 746,
-      "2026-07-05": 376
+      "2026-07-05": 496
     }
   },
   {
@@ -223,7 +222,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-05": 1009,
+      "2026-07-05": 1333,
       "2026-07-04": 1440,
       "2026-07-03": 1440,
       "2026-07-02": 1440,
