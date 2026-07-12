@@ -4,16 +4,16 @@
     "url": "https://taxidriverscuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/taxidriverscuba.com.ico",
     "slug": "taxidrivers-cuba",
-    "status": "down",
+    "status": "up",
     "uptime": "99.31%",
-    "uptimeDay": "91.90%",
-    "uptimeWeek": "88.13%",
-    "uptimeMonth": "79.74%",
-    "uptimeYear": "96.98%",
+    "uptimeDay": "87.84%",
+    "uptimeWeek": "87.76%",
+    "uptimeMonth": "79.59%",
+    "uptimeYear": "96.96%",
     "time": 918,
-    "timeDay": 688,
-    "timeWeek": 735,
-    "timeMonth": 679,
+    "timeDay": 784,
+    "timeWeek": 754,
+    "timeMonth": 681,
     "timeYear": 860,
     "dailyMinutesDown": {
       "2026-04-15": 49,
@@ -77,7 +77,7 @@
       "2026-07-08": 258,
       "2026-07-09": 150,
       "2026-07-11": 174,
-      "2026-07-12": 63
+      "2026-07-12": 127
     }
   },
   {
@@ -169,7 +169,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/serviless.com.ico",
     "slug": "serviless",
     "status": "up",
-    "uptime": "98.65%",
+    "uptime": "98.66%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.29%",
     "uptimeMonth": "99.61%",
@@ -229,7 +229,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-12": 972,
+      "2026-07-12": 1036,
       "2026-07-11": 1440,
       "2026-07-10": 1440,
       "2026-07-09": 1440,
