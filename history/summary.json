@@ -4,19 +4,18 @@
     "url": "https://taxidriverscuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/taxidriverscuba.com.ico",
     "slug": "taxidrivers-cuba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.30%",
-    "uptimeDay": "92.50%",
-    "uptimeWeek": "86.63%",
-    "uptimeMonth": "81.08%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "88.98%",
+    "uptimeMonth": "81.15%",
     "uptimeYear": "96.88%",
     "time": 911,
-    "timeDay": 959,
-    "timeWeek": 782,
-    "timeMonth": 702,
+    "timeDay": 809,
+    "timeWeek": 779,
+    "timeMonth": 701,
     "timeYear": 854,
     "dailyMinutesDown": {
-      "2026-05-16": 42,
       "2026-05-18": 51,
       "2026-05-22": 251,
       "2026-05-27": 131,
@@ -69,7 +68,8 @@
       "2026-07-19": 429,
       "2026-07-20": 877,
       "2026-07-21": 8,
-      "2026-07-25": 108
+      "2026-07-25": 108,
+      "2026-07-26": 0
     }
   },
   {
@@ -86,7 +86,7 @@
     "time": 595,
     "timeDay": 315,
     "timeWeek": 511,
-    "timeMonth": 1082,
+    "timeMonth": 1094,
     "timeYear": 596,
     "dailyMinutesDown": {
       "2025-11-18": 184,
@@ -100,7 +100,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/altaxi.app.ico",
     "slug": "al-taxi",
     "status": "up",
-    "uptime": "87.52%",
+    "uptime": "87.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.60%",
@@ -108,7 +108,7 @@
     "time": 350,
     "timeDay": 198,
     "timeWeek": 220,
-    "timeMonth": 838,
+    "timeMonth": 852,
     "timeYear": 355,
     "dailyMinutesDown": {
       "2025-11-18": 144,
@@ -129,7 +129,7 @@
     "time": 2026,
     "timeDay": 1869,
     "timeWeek": 1884,
-    "timeMonth": 1935,
+    "timeMonth": 1928,
     "timeYear": 2075,
     "dailyMinutesDown": {
       "2026-03-03": 33
@@ -149,7 +149,7 @@
     "time": 619,
     "timeDay": 627,
     "timeWeek": 579,
-    "timeMonth": 598,
+    "timeMonth": 597,
     "timeYear": 625,
     "dailyMinutesDown": {
       "2026-03-03": 33
@@ -169,7 +169,7 @@
     "time": 664,
     "timeDay": 348,
     "timeWeek": 476,
-    "timeMonth": 1108,
+    "timeMonth": 1125,
     "timeYear": 682,
     "dailyMinutesDown": {
       "2025-11-01": 79,
@@ -195,7 +195,7 @@
     "time": 1367,
     "timeDay": 1539,
     "timeWeek": 1340,
-    "timeMonth": 1408,
+    "timeMonth": 1415,
     "timeYear": 1474,
     "dailyMinutesDown": {
       "2025-11-18": 176,
@@ -213,7 +213,7 @@
     "uptime": "0.00%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
+    "uptimeMonth": "0.24%",
     "uptimeYear": "0.00%",
     "time": 0,
     "timeDay": 0,
@@ -221,7 +221,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-26": 79,
+      "2026-07-26": 933,
       "2026-07-25": 1440,
       "2026-07-24": 1440,
       "2026-07-23": 1440,
