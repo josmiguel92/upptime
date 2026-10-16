@@ -100,11 +100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/altaxi.app.ico",
     "slug": "al-taxi",
     "status": "down",
-    "uptime": "86.31%",
+    "uptime": "86.29%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "91.48%",
+    "uptimeYear": "91.37%",
     "time": 341,
     "timeDay": 0,
     "timeWeek": 0,
@@ -114,7 +114,7 @@
       "2025-11-18": 144,
       "2026-07-09": 174,
       "2026-08-24": 41,
-      "2026-10-16": 381,
+      "2026-10-16": 941,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -153,19 +153,20 @@
     "url": "https://sensesofcuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/sensesofcuba.com.ico",
     "slug": "sensesof-cuba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.85%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "99.99%",
-    "time": 2038,
+    "time": 2039,
     "timeDay": 1526,
     "timeWeek": 1896,
     "timeMonth": 1955,
     "timeYear": 2090,
     "dailyMinutesDown": {
-      "2026-03-03": 33
+      "2026-03-03": 33,
+      "2026-10-16": 6
     }
   },
   {
@@ -173,10 +174,10 @@
     "url": "https://infonet.sensesofcuba.com",
     "icon": "https://icons.duckduckgo.com/ip3/infonet.sensesofcuba.com.ico",
     "slug": "infonet-sensesof-cuba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 626,
@@ -185,7 +186,8 @@
     "timeMonth": 684,
     "timeYear": 634,
     "dailyMinutesDown": {
-      "2026-03-03": 33
+      "2026-03-03": 33,
+      "2026-10-16": 1
     }
   },
   {
@@ -194,11 +196,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/serviless.com.ico",
     "slug": "serviless",
     "status": "down",
-    "uptime": "98.88%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.90%",
+    "uptime": "98.81%",
+    "uptimeDay": "61.10%",
+    "uptimeWeek": "94.44%",
+    "uptimeMonth": "98.72%",
+    "uptimeYear": "99.80%",
     "time": 662,
     "timeDay": 562,
     "timeWeek": 595,
@@ -212,7 +214,7 @@
       "2026-01-07": 21,
       "2026-03-11": 38,
       "2026-07-09": 172,
-      "2026-10-16": 1
+      "2026-10-16": 560
     }
   },
   {
@@ -256,7 +258,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-16": 381,
+      "2026-10-16": 941,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
