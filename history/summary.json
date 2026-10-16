@@ -12,7 +12,7 @@
     "uptimeYear": "97.00%",
     "time": 902,
     "timeDay": 780,
-    "timeWeek": 1220,
+    "timeWeek": 1280,
     "timeMonth": 1227,
     "timeYear": 900,
     "dailyMinutesDown": {
@@ -85,7 +85,7 @@
     "uptimeYear": "99.93%",
     "time": 598,
     "timeDay": 414,
-    "timeWeek": 1587,
+    "timeWeek": 1765,
     "timeMonth": 822,
     "timeYear": 592,
     "dailyMinutesDown": {
@@ -100,11 +100,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/altaxi.app.ico",
     "slug": "al-taxi",
     "status": "down",
-    "uptime": "86.32%",
+    "uptime": "86.31%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "91.53%",
+    "uptimeYear": "91.48%",
     "time": 341,
     "timeDay": 0,
     "timeWeek": 0,
@@ -114,7 +114,7 @@
       "2025-11-18": 144,
       "2026-07-09": 174,
       "2026-08-24": 41,
-      "2026-10-16": 105,
+      "2026-10-16": 381,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
@@ -161,7 +161,7 @@
     "uptimeYear": "99.99%",
     "time": 2038,
     "timeDay": 1526,
-    "timeWeek": 1891,
+    "timeWeek": 1896,
     "timeMonth": 1955,
     "timeYear": 2090,
     "dailyMinutesDown": {
@@ -181,7 +181,7 @@
     "uptimeYear": "99.99%",
     "time": 626,
     "timeDay": 553,
-    "timeWeek": 682,
+    "timeWeek": 714,
     "timeMonth": 684,
     "timeYear": 634,
     "dailyMinutesDown": {
@@ -193,15 +193,15 @@
     "url": "https://serviless.com/",
     "icon": "https://icons.duckduckgo.com/ip3/serviless.com.ico",
     "slug": "serviless",
-    "status": "up",
+    "status": "down",
     "uptime": "98.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.90%",
-    "time": 661,
+    "time": 662,
     "timeDay": 562,
-    "timeWeek": 562,
+    "timeWeek": 595,
     "timeMonth": 632,
     "timeYear": 652,
     "dailyMinutesDown": {
@@ -211,7 +211,8 @@
       "2025-11-25": 43,
       "2026-01-07": 21,
       "2026-03-11": 38,
-      "2026-07-09": 172
+      "2026-07-09": 172,
+      "2026-10-16": 1
     }
   },
   {
@@ -227,7 +228,7 @@
     "uptimeYear": "99.92%",
     "time": 1473,
     "timeDay": 1017,
-    "timeWeek": 1558,
+    "timeWeek": 1584,
     "timeMonth": 1716,
     "timeYear": 1485,
     "dailyMinutesDown": {
@@ -255,7 +256,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-16": 105,
+      "2026-10-16": 381,
       "2026-10-15": 1440,
       "2026-10-14": 1440,
       "2026-10-13": 1440,
