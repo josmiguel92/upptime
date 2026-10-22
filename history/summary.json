@@ -13,7 +13,7 @@
     "time": 899,
     "timeDay": 979,
     "timeWeek": 1395,
-    "timeMonth": 1277,
+    "timeMonth": 1286,
     "timeYear": 903,
     "dailyMinutesDown": {
       "2026-06-04": 385,
@@ -87,7 +87,7 @@
     "time": 597,
     "timeDay": 512,
     "timeWeek": 501,
-    "timeMonth": 818,
+    "timeMonth": 834,
     "timeYear": 592,
     "dailyMinutesDown": {
       "2025-11-18": 184,
@@ -105,7 +105,7 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "89.89%",
+    "uptimeYear": "89.88%",
     "time": 341,
     "timeDay": 0,
     "timeWeek": 0,
@@ -115,7 +115,7 @@
       "2025-11-18": 144,
       "2026-07-09": 174,
       "2026-08-24": 41,
-      "2026-10-22": 77,
+      "2026-10-22": 119,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
@@ -162,14 +162,14 @@
     "slug": "sensesof-cuba",
     "status": "down",
     "uptime": "99.58%",
-    "uptimeDay": "55.57%",
-    "uptimeWeek": "33.78%",
-    "uptimeMonth": "84.76%",
+    "uptimeDay": "52.66%",
+    "uptimeWeek": "33.36%",
+    "uptimeMonth": "84.67%",
     "uptimeYear": "98.72%",
     "time": 2047,
     "timeDay": 2141,
     "timeWeek": 2533,
-    "timeMonth": 2042,
+    "timeMonth": 2048,
     "timeYear": 2099,
     "dailyMinutesDown": {
       "2026-03-03": 33,
@@ -179,7 +179,7 @@
       "2026-10-17": 1440,
       "2026-10-16": 505,
       "2026-10-21": 634,
-      "2026-10-22": 5
+      "2026-10-22": 47
     }
   },
   {
@@ -189,14 +189,14 @@
     "slug": "infonet-sensesof-cuba",
     "status": "down",
     "uptime": "99.31%",
-    "uptimeDay": "56.24%",
-    "uptimeWeek": "33.92%",
-    "uptimeMonth": "84.80%",
-    "uptimeYear": "98.73%",
+    "uptimeDay": "53.33%",
+    "uptimeWeek": "33.51%",
+    "uptimeMonth": "84.70%",
+    "uptimeYear": "98.72%",
     "time": 628,
     "timeDay": 1089,
     "timeWeek": 819,
-    "timeMonth": 703,
+    "timeMonth": 710,
     "timeYear": 637,
     "dailyMinutesDown": {
       "2026-03-03": 33,
@@ -206,7 +206,7 @@
       "2026-10-17": 1440,
       "2026-10-16": 500,
       "2026-10-21": 630,
-      "2026-10-22": 1
+      "2026-10-22": 43
     }
   },
   {
@@ -223,7 +223,7 @@
     "time": 659,
     "timeDay": 267,
     "timeWeek": 470,
-    "timeMonth": 609,
+    "timeMonth": 614,
     "timeYear": 648,
     "dailyMinutesDown": {
       "2025-11-01": 79,
@@ -252,7 +252,7 @@
     "time": 1474,
     "timeDay": 1012,
     "timeWeek": 1282,
-    "timeMonth": 1633,
+    "timeMonth": 1635,
     "timeYear": 1484,
     "dailyMinutesDown": {
       "2025-11-18": 176,
@@ -279,7 +279,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-10-22": 77,
+      "2026-10-22": 119,
       "2026-10-21": 1440,
       "2026-10-20": 1440,
       "2026-10-19": 1440,
